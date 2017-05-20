@@ -7,4 +7,6 @@ import java.io.Serializable;
 public class LicencasLiberadas implements Serializable{
 
 
+
+
 }
