@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/car-system.iml" filepath="$PROJECT_DIR$/car-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car-system-ear/car-system-ear.iml" filepath="$PROJECT_DIR$/car-system-ear/car-system-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car-system-ejb/car-system-ejb.iml" filepath="$PROJECT_DIR$/car-system-ejb/car-system-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car-system-war/car-system-war.iml" filepath="$PROJECT_DIR$/car-system-war/car-system-war.iml" />
     </modules>
   </component>
 </project>
